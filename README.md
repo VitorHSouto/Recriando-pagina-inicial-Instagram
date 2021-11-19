@@ -4,7 +4,7 @@
 Nesse projeto foi reconstruído a página de login do Instagram dentro do bootcamp HTML Web Developer.
 
 ## 💻 Tecnologias utilizadas
-* MTML 5.
+* HTML 5.
 * CSS
 
 ### Feito por Vitor Souto
